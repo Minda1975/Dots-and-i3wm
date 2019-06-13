@@ -16,13 +16,25 @@ P.S.
 A little explanation about i3blocks modules.
 
 `clock` --Shows time and date. If clicked, brings up calender or coming calcuse events.
+
+
 `cpu` --Shows CPU temperature. If clicked, shows most processor-intensive processes.
+
+
 `mem` --Shows memory usage. If clicked, shows most memory-intensive processes.
+
+
 `mediaplayer` --Shows mpd current song.
+
+
 `volume` -- Shows volume percentage or mute notification. If clicked, brings up pulsemixer. The pulsemixer (very useful and lightwieght terminal app) not in Debian repos. You can install it with pip command `pip3 install --user pulsemixer`
+
+
 `weather` --Gets weather forcast from wttr.in and returns today's precipitation chance (☔), daily low (snowflake) and daily high (sunny). More info in [wttr.in](https://github.com/chubin/wttr.in).
 
+
 Also, i want to say big thanks to opensource community and these guys: [LukeSmithxyz](https://github.com/LukeSmithxyz) and [gerardbm](https://github.com/gerardbm) for they ideas😄
+
 
 And here screenshots:
 
