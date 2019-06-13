@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# Load resources
+
+xrdb -merge .Xresources
+
+# Switch to US international with Caps as Mod/Escape
+setxkbmap -option caps:super -variant altgr-intl && killall xcape 2>/dev/null ; xcape -e 'Super_L=Escape' &
+
+
+setxkbmap -layout "us,lt,ru" -option "grp:alt_shift_toggle"
+xautolock -time 10 -locker 'i3lock' &
+
+# Properties button extra Mod/Escape
+xmodmap -e 'keycode 135 = Super_R' &
+
+xset r rate 300 50 &	# Speed xrate up
+
+$HOME/.fehbg &
+sxhkd &
+
+exec i3

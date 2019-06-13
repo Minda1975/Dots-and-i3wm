@@ -1,0 +1,55 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/mindaugas/
+	..
+1560236427
+'b
+	/home/mindaugas/bin/
+	..
+1560236427
+'h
+	/home/mindaugas/
+	..
+1560236427
+'z
+	/home/mindaugas/.config/vifm
+	..
+1560236427
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/mindaugas
+	..
+0
+
+# Right window history (oldest to newest):
+D/home/mindaugas
+	..
+0
+
+# Command line history (oldest to newest):
+:q
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
