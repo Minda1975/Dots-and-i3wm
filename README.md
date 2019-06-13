@@ -2,7 +2,7 @@
 Config of i3wm, i3blocks and usefull scripts
 
 Dependencies:
-`sxiv, libimage-exiftool-perl, mupdf-tools, exiv2, atool, odt2txt, sxhkd, docx2txt, highlight, nerd-fonts, lm-sensors, socat, zsh, rxvt-unicode-256color, terminator, xclip, ed, tree, arandr, bc, calcurse, zathura, zathura-djvu, poppler-utils, mpd, mpc, cmus, dbus-x11, libnotify-bin, xautolock, suckless-tools, imagemagick, fonts-inconsolata, fonts-symbola, fonts-linuxlibertine, vifm, ranger, python3-pip, python-pip, oh-my-zsh, ranger, lf, gotop, glances, mpv, w3m, feh, maim, slop, pulseaudio, pavucontrol, pulsemixer, pywal, stterm, curl, xclip, vim, neovim, geany, xarchiver, rar, unar, zip, arj, lhasa, weechat, mediainfo, fzf`
+`sxiv, libimage-exiftool-perl, mupdf-tools, exiv2, atool, odt2txt, sxhkd, docx2txt, highlight, nerd-fonts, lm-sensors, socat, zsh, rxvt-unicode-256color, terminator, xclip, xsel, ed, tree, arandr, bc, calcurse, zathura, zathura-djvu, poppler-utils, mpd, mpc, cmus, dbus-x11, libnotify-bin, xautolock, suckless-tools, imagemagick, fonts-inconsolata, fonts-symbola, fonts-linuxlibertine, vifm, ranger, python3-pip, python-pip, oh-my-zsh, ranger, lf, gotop, glances, mpv, w3m, feh, maim, slop, pulseaudio, pavucontrol, pulsemixer, pywal, stterm, curl, xclip, vim, neovim, geany, xarchiver, rar, unar, zip, arj, lhasa, weechat, mediainfo, fzf`
 
 
 As window manager, i use i3wm with i3blocks.  Config of i3wm is in .config/i3 folder. Config of i3blocks is in .config/i3blocks folder. Scripts for i3blocks (scripts for weather, volume, RAM, CPU usage, mpd module and date and time module is in .local/bin folder. Fell fre to modify these).
