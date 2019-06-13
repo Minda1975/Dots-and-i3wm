@@ -11,6 +11,12 @@ As fonts (in i3wm, i3blocks and terminals) i use [Nerd-Fonts](https://github.com
 
 As color theme i use [Atomic](https://github.com/gerardbm/atomic). Atomic color scheme is already included in terminals, i3wm and cmus.
 
+Fot tmux configuration, please check [this](https://github.com/gpakosz/.tmux)
+
+My default shell is zsh. With it i use [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting). It is Fish shell-like syntax highlighting for Zsh 🐟 and [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions). It is Fish-like fast/unobtrusive autosuggestions for zsh 🐠
+
+Install these plugins from the official repositories.
+
 P.S.
 
 A little explanation about i3blocks modules.
