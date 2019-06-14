@@ -20,8 +20,8 @@ $HOME/.fehbg & # Wallpaper
 
 sxhkd & # Modular keybindings
 
-/usr/bin/lxpolkit # Autentication agent. Need for udiskie.
+lxpolkit & # Autentication agent. Need for udiskie.
 
-udiskie -s #  Automounter for removable media (flash drives).
+udiskie -s & #  Automounter for removable media (flash drives).
 
 exec i3
