@@ -6,6 +6,11 @@ export BROWSER="firefox"
 export READER="zathura"
 export FILE="ranger"
 
+# Atomic dark color scheme for tty
+if [[ -a ~/.local/bin/atomic-tty ]]; then
+	source ~/.local/bin/atomic-tty
+fi
+
 # Set up the prompt
 autoload -Uz promptinit
 promptinit
