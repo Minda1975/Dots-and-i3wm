@@ -20,6 +20,8 @@ $HOME/.fehbg & # Wallpaper
 
 sxhkd & # Modular keybindings
 
+xcompmgr -f -C -n -D 3 &	# xcompmgr for transparency
+
 lxpolkit & # Autentication agent. Need for udiskie.
 
 udiskie -s & #  Automounter for removable media (flash drives).
